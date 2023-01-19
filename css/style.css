@@ -1,0 +1,15 @@
+/* *{
+    margin: 0 !important;
+    padding: 0 !important;
+} */
+
+/* header part */
+header {
+    background-color: rgb(255, 135, 36);
+    background-size: cover;
+    height: 80vh;
+}
+
+header nav ul li {
+    padding: 0px 20px;
+}
